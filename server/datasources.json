@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MSSQLSources": {
+    "host": "Localhost",
+    "port": 1433,
+    "url": "",
+    "database": "Development",
+    "password": "P@ssw0rd",
+    "name": "MSSQLSources",
+    "user": "Development",
+    "connector": "mssql"
+  }
+}
